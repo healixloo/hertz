@@ -16,7 +16,7 @@ Emerging evidence indicates that genetic and epigenetic factors impact on the fu
 
 You can download the PDF [here](https://healixloo.github.io/group_neri/assets/files/doc1.pdf).
 
-You can download the file [here](https://healixloo.github.io/group_neri/assets/files/doc2).
+You can download the file [here](https://healixloo.github.io/group_neri/assets/files/doc.py).
 
 ## Tools & Databases
 
