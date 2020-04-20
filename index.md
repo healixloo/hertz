@@ -4,7 +4,7 @@
 
 <img src="https://specials-images.forbesimg.com/imageserve/1056797512/960x0.jpg?fit=scale" >
 
-You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to get to know the detailed intruction from our group.
+You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to know detailed intruction from our group.
 
 ## Introduction
 
@@ -22,21 +22,21 @@ You can download the file [here](https://healixloo.github.io/group_neri/assets/f
 
 1. Sinle cell RNAseq visualiztion on the epithelia cells
 
-   [sinle cell](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
+   [single cell interactive web application](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
    
-   [sinle cell](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
+   [single cell interactive web application](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
 
 2. Sinle cell RNAseq visualiztion on the immune cells
 
-   [sinle cell](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
+   [single cell interactive web application](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
    
-   [sinle cell](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
+   [single cell interactive web application](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
 
 3. Bulk RNAseq visualiztion on the epithelia cells
 
-   [bulk RNAseq](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
+   [bulk RNAseq interactive web application](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
    
-   [bulk RNAseq](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
+   [bulk RNAseq interactive web application](https://gen100.leibniz-fli.de/shiny-odin/jlu/)
 
 ### Publications
 
