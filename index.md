@@ -8,7 +8,9 @@ Aging associates with defective organ maintenance and increased tissue dysfuncti
 
 Emerging evidence indicates that genetic and epigenetic factors impact on the functionality and homeostasis of adult stem cells during aging, favoring in this way the selective advantage of dominant clones and the cancer onset. Among these factors, DNA methylation (a stable and heritable epigenetic modification) has been associated with aging induced diseases and cancer development. Recent discovery that DNA methylation can be actively removed by the TET proteins has pointed out the importance of this epigenetic modification in several biological models. Interestingly, two of the principal enzymes responsible for the establishment/removing of DNA methylation (DNMT3A and TET2) are the principal targets of genetic mutations during aging and cancer development.
 
-![useful image]({{ site.url }}/assets/pic1.png)
+![useful image]({{ https://healixloo.github.io/group_neri }}/assets/pic1.png)
+
+You can download the PDF [here]({{ https://healixloo.github.io/group_neri }}/assets/document.pdf).
 
 ## Tools & Databases
 
