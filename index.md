@@ -2,6 +2,8 @@
 
 You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to get to know the intruction from our group.
 
+The Epigenetics Of Aging
+
 <img src="https://specials-images.forbesimg.com/imageserve/1056797512/960x0.jpg?fit=scale" >
 
 ## Introduction
@@ -10,9 +12,9 @@ Aging associates with defective organ maintenance and increased tissue dysfuncti
 
 Emerging evidence indicates that genetic and epigenetic factors impact on the functionality and homeostasis of adult stem cells during aging, favoring in this way the selective advantage of dominant clones and the cancer onset. Among these factors, DNA methylation (a stable and heritable epigenetic modification) has been associated with aging induced diseases and cancer development. Recent discovery that DNA methylation can be actively removed by the TET proteins has pointed out the importance of this epigenetic modification in several biological models. Interestingly, two of the principal enzymes responsible for the establishment/removing of DNA methylation (DNMT3A and TET2) are the principal targets of genetic mutations during aging and cancer development.
 
-<img src="assets/pic1.png" alt="hi" class="inline"/> 
+<img src="assets/images/pic1.png" alt="hi" class="inline"/> 
 
-You can download the PDF [here]({{ https://healixloo.github.io/group_neri }}/assets/document.pdf).
+You can download the PDF [here]({{ https://healixloo.github.io/group_neri }}/assets/files/doc1.pdf).
 
 ## Tools & Databases
 
