@@ -1,10 +1,10 @@
 ## Welcome to Group Neri's website
 
-You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to get to know the intruction from our group.
-
-The Epigenetics Of Aging
+                                      The Epigenetics Of Aging
 
 <img src="https://specials-images.forbesimg.com/imageserve/1056797512/960x0.jpg?fit=scale" >
+
+You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to get to know the detailed intruction from our group.
 
 ## Introduction
 
@@ -14,7 +14,7 @@ Emerging evidence indicates that genetic and epigenetic factors impact on the fu
 
 <img src="assets/images/pic1.png" alt="hi" class="inline"/> 
 
-You can download the PDF [here]({{ https://healixloo.github.io/group_neri }}/assets/files/doc1.pdf).
+You can download the PDF [here](https://healixloo.github.io/group_neri/assets/files/doc1.pdf).
 
 ## Tools & Databases
 
