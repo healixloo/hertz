@@ -44,16 +44,16 @@ For more details see [Pbulications Neri](https://www.leibniz-fli.de/nc/research/
 
 ### Group members
 
-Francesco Neri
-Anna Krepelova
-Suneetha Nunna
-Francesco Annunziata
-Olena Husak
-Jing Lu
-Seyed Mohammad Mahdi Rasa
-Dovydas Sirvinskas
-Omid Omrani
-Lisa Adam
+Francesco Neri,
+Anna Krepelova,
+Suneetha Nunna,
+Francesco Annunziata,
+Olena Husak,
+Jing Lu,
+Seyed Mohammad Mahdi Rasa,
+Dovydas Sirvinskas,
+Omid Omrani,
+Lisa Adam,
 Sandra Käppel
 
 Details in [Team Neri in FLI](https://www.leibniz-fli.de/research/research-groups/neri/methods-team/). The information of Team Neri is recorded in the website `www.leibniz-fli.de`.
