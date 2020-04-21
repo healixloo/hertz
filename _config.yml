@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Lab Neri
 description: Francesco Neri
-github:
-  is_project_page: false
+is_project_page: false
 
