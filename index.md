@@ -156,4 +156,4 @@ Details in [Team Neri in FLI](https://www.leibniz-fli.de/research/research-group
 
 ### Support or Contact
 
-Having trouble with our research? Check out our [website](https://healixloo.github.io/group_neri/) or contact support (jing.lu@leibniz-fli.de) and we’ll help you sort it out.[View On GitHub](https://github.com/healixloo/group_neri)
+Having trouble with our research? Check out our [website](https://healixloo.github.io/group_neri/) or contact support (jing.lu@leibniz-fli.de) and we’ll help you sort it out. [View On GitHub](https://github.com/healixloo/group_neri)
